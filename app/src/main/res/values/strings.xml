@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Mobile EGR</string>
+    <string-array name="status_array">
+        <item>karyawan tetap</item>
+        <item>karyawan SKU</item>
+        <item>karyawan BHL</item>
+        <item>kontraktor / IGA</item>
+        <item>keluarga karyawan</item>
+        <item>masyarakat luar</item>
+        <item>tamu</item>
+        <item>siswa magang</item>
+    </string-array>
+    <string-array name="waktu_array">
+        <item>saat jam kerja</item>
+        <item>diluar jam kerja</item>
+    </string-array>
+    <string-array name="pelanggaran_array">
+        <item>Kendaraan Tidak Standard (spion/lampu/klakson/knalpot) (ST)</item>
+        <item>Helm Tidak Klik (ST)</item>
+        <item>Tanpa Helm SNI / Safety Belt / Pakai HP (SP-2)</item>
+        <item>Bekerja Tanpa APD (SP-2)</item>
+        <item>Melanggar Rambu-rambu Keselamatan (SP-1)</item>
+        <item>Merubah Instalasi Listrik / SOP Kerja / Mesin Tanpa Izin (SP-1)</item>
+        <item>Mengangkut Penumpang Mengelantung di samping atau diatas kabin kendaraan (PHK)</item>
+        <item>Membawa Egrek tidak Disarungi di Jalan Saat Pulang / Pergi / Naik Motor (SP-2)</item>
+        <item>Mengoperasikan Alat/Mesin tidak layak operasi (SP-2)</item>
+        <item>Mengoperasikan Alat/Mesin yang bukan wewenangnya, termasuk tidak menggunakan LOTO (SP-3)</item>
+        <item>Merokok/Menyalakan api di Area Berbahaya (PHK)</item>
+        <item>Kerja di Tempat berbahaya Tanpa Izin Kerja (Ketinggian,Panas,Tertutup) (PHK)</item>
+        <item>Mengangkut penumpang dengan bak terbuka, kecuali ada tempat duduknya (SP-2)</item>
+        <item>Menumpang alat berat (SP-1)</item>
+    </string-array>
+    <string-array name="lokasi_afd_array">
+
+        <item>Alfa</item>
+        <item>Bravo</item>
+        <item>Charlie</item>
+        <item>Delta</item>
+        <item>Echo</item>
+        <item>Fanta</item>
+        <item>Golf</item>
+        <item>Hotel</item>
+        <item>India</item>
+        <item>Juliet</item>
+        <item>Kilo</item>
+        <item>Lima</item>
+        <item>Mike</item>
+        <item>November</item>
+        <item>Oscar</item>
+        <item>Papa</item>
+        <item>Quebec</item>
+        <item>Romeo</item>
+        <item>Sierra</item>
+        <item>Tanggo</item>
+        <item>Uniform</item>
+        <item>Vicktor</item>
+        <item>Whiskey</item>
+        <item>X-ray</item>
+        <item>Yankee</item>
+        <item>Zebra</item>
+
+        <item>Basecamp</item>
+        <item>Pabrik</item>
+        <item>Ws. Teknik</item>
+        <item>Kantor Besar</item>
+        <item>WSC</item>
+        <item>Sekolah</item>
+        <item>TCA</item>
+        <item>Research n Development</item>
+        <item>Live Stock Mill</item>
+        <item>Luar Site</item>
+        <item>Head Office</item>
+
+    </string-array>
+    <string-array name="lokasi_pt_array">
+        <item>PT AAK</item>
+        <item>PT AAL1</item>
+        <item>PT AMR</item>
+        <item>PT AMR2</item>
+        <item>PT ANA</item>
+        <item>PT BCL</item>
+        <item>PT BCL2</item>
+        <item>PT BIM</item>
+        <item>PT BNA</item>
+        <item>PT CAN</item>
+        <item>PT CNL</item>
+        <item>PT CPN</item>
+        <item>PT EDI</item>
+        <item>PT INP</item>
+        <item>PT KED</item>
+        <item>PT KTS</item>
+        <item>PT KTU</item>
+        <item>PT LTT</item>
+        <item>PT LTW</item>
+        <item>PT MBG</item>
+        <item>PT MMG</item>
+        <item>PT NAL</item>
+        <item>PT PDL</item>
+        <item>PT PLB</item>
+        <item>PT PLB2</item>
+        <item>PT PPS</item>
+        <item>PT PSK</item>
+        <item>PT PWR</item>
+        <item>PT RAS</item>
+        <item>PT SAI</item>
+        <item>PT SAL1</item>
+        <item>PT SAL2</item>
+        <item>PT SAM</item>
+        <item>PT SAP</item>
+        <item>PT SDI</item>
+        <item>PT SIP</item>
+        <item>PT SJA</item>
+        <item>PT SKP</item>
+        <item>PT SLS</item>
+        <item>PT SPP</item>
+        <item>PT SRL1</item>
+        <item>PT SRL2-BD</item>
+        <item>PT STN</item>
+        <item>PT SYM</item>
+        <item>PT TBL</item>
+        <item>PT TBM</item>
+        <item>PT TPP</item>
+        <item>PT TPP3</item>
+        <item>PT TPP4</item>
+        <item>PT TSL</item>
+        <item>PT WKP</item>
+        <item>Head Office</item>
+
+    </string-array>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Mobile\nEGR</string>
+
+
+</resources>
